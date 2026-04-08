@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "release_notes": "fix lỗi tè le",
-  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.0.2.rbz"
+  "version": "1.0.3",
+  "release_notes": "tool thống kê nẹp ABF",
+  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.0.3.rbz"
 }
