@@ -1,5 +1,6 @@
 {
-  "version": "1.0.6",
-  "release_notes": "-thay đổi phương thức login, tính năng nhận diện tấm chưa gắn nhãn ABF cho Quản Lý Ván",
-  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.0.6.rbz"
+  "version": "1.0.7",
+  "release_notes": "-Chia nhanh khoang tủ
+-cải thiện chức năng login",
+  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.0.7.rbz"
 }
