@@ -1,6 +1,5 @@
 {
-  "version": "1.0.7",
-  "release_notes": "-Chia nhanh khoang tủ
--cải thiện chức năng login",
-  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.0.7.rbz"
+  "version": "1.0.8",
+  "release_notes": "cải thiện tính năng",
+  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.0.8.rbz"
 }
