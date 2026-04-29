@@ -1,5 +1,5 @@
 {
-  "version": "1.1.40",
-  "release_notes": "update và sửa lỗi",
-  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.1.40.rbz"
+  "version": "1.1.41",
+  "release_notes": "-Nâng cấp và vá lỗi cho gắn bản lề, đánh vát cho báo cáo acrylic, né thanh diềm cho sửa hụt tấm",
+  "download_url": "https://raw.githubusercontent.com/docdragon/nmt_tools_releases/main/nmt_tools_v1.1.41.rbz"
 }
